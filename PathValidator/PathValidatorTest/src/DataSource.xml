@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pricelist>
+  <book id="1">
+    <title>Книга 1</title>
+    <author>Автор 1</author>
+    <price>Цена 1</price>
+  </book>
+  <book id="2">
+    <title>Книга 2</title>
+    <author>Автор 2</author>
+    <price>Цена 2</price>
+  </book>
+  <book id="3">
+    <title>Книга 3</title>
+    <author>Автор 3</author>
+    <price>Цена 3</price>
+  </book>
+</pricelist>
