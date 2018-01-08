@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DataSource>
+  <ValidPath>
+  <Path>C:/user/../file.txt/</Path>  
+  </ValidPath>
+  <ValidPath>
+  <Path>C:/users/u.ser/user...r/bin.exe</Path>  
+  </ValidPath>
+  <ValidPath>
+  <Path>S</Path>  
+  </ValidPath>
+  <ValidPath>
+  <Path>Я</Path>  
+  </ValidPath>
+  <ValidPath>
+  <Path>c:/Program Files/</Path>  
+  </ValidPath>
+  <ValidPath>
+  <Path>./../int/file</Path>  
+  </ValidPath>
+  
+  <InvalidPath>
+    <Path>/C:/user/c#/</Path>
+  </InvalidPath>
+<InvalidPath>
+    <Path>C:/user./user</Path>
+  </InvalidPath>
+<InvalidPath>
+    <Path>C:/int/../.../</Path>
+  </InvalidPath>
+<InvalidPath>
+    <Path>C:/users/../.dsdfsdf./</Path>
+  </InvalidPath>
+<InvalidPath>
+    <Path>C:/users/sdsf sdf /int.exe</Path>
+  </InvalidPath>
+</DataSource>
